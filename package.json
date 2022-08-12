@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "jsid.dev",
+    "author": "NAMDEVEL",
+    "scripts": {
+      "sort": "sort-json subdomains.json"
+    },
+    "devDependencies": {
+      "sort-json": "^2.0.1"
+    }
+  }
