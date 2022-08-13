@@ -9,7 +9,7 @@ An identity for developers on the web.
 ## How to get one
 
 - Fork this repo.
-- Set a custom domain to your [GitHub Pages](https://pages.github.com).
+- Set a custom domain to your [GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain).
 - Add your subdomain under `subdomains.json` file.
 - Run `npm install` and `npm run sort` to sort the keys alphabetically.
 - Send Pull Request.
